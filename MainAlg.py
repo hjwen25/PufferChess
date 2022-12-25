@@ -1,3 +1,6 @@
+#A chess algorithm I worked on for the last few months
+#The main structure relies on a complete search with some alpha-beta pruning and a static board eval algorithm (the "EvalAlg3" file)
+
 from tensorflow import keras
 import chess
 import chess.polyglot
